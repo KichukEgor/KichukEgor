@@ -1,9 +1,9 @@
 # Hi there! My name is Egor
 
+> *The only true wisdom is in knowing you know nothing © Socrates*
+
 I'm glad to see you on my page!
 I hope my code will be useful to you.
-
-> *The only true wisdom is in knowing you know nothing © Socrates*
 
 I'm a software engineer whose love for the frontend started with  the first `Hello world!`
 
