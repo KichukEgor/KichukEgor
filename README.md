@@ -1,6 +1,6 @@
 # Hi there! My name is Egor
 
-Hi! I'm glad to see you on my page!
+I'm glad to see you on my page!
 I hope my code will be useful to you.
 
 > *The only true wisdom is in knowing you know nothing © Socrates*
