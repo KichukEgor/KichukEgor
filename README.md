@@ -15,7 +15,6 @@ I enjoy creating beautiful and functional user interfaces and finding beautiful 
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   
@@ -23,6 +22,7 @@ I enjoy creating beautiful and functional user interfaces and finding beautiful 
   
 ### Frontend
 
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
 <img align="left" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original-wordmark.svg" />
 <img align="left" width="30px" src="https://styled-components.com/logo.png" />
